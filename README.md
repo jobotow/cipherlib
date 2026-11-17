@@ -1,5 +1,5 @@
 # CIPHERLIB
-**Cipherlib** is a library for encoding and decoding text.
+**Cipherlib** is a nim library for encoding and decoding text.
 
 # Installation
 ```
